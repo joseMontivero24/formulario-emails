@@ -1,0 +1,9 @@
+
+
+++++++ detectar cuando un campo esta vacio +++++
+
+trim() ---> Me sirve para poder eliminar los espacios en blanco
+createElement('P') ---> Me sirve para crear un nuevo elemento html
+textContent = '' ----> Forma rapida de agregar texto
+appendChild() ---> Agrega un nuevo elemento a lo ya existente
+classList.add() ---> Es para agregar clases de css o de algun framework
